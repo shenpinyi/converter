@@ -50,8 +50,8 @@ public class Application {
 			default: display.info(getUsage());
 			}
 		}
-		unzipConverter.convert();
-		cfsConverter.convert();
+//		unzipConverter.convert();
+//		cfsConverter.convert();
 		display.info("Finishing Tool. Good Bye!");
 	}
 	
